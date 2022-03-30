@@ -1,0 +1,12 @@
+{
+  "item.brobiesmod.liquid_slime": "Liquid Slime",
+
+
+  "block.brobiesmod.brobie_block": "Brobie Block",
+  "tooltip.brobiesmod.brobie_block": "A decorative block.",
+  "block.brobiesmod.speedy_block": "Speedy Block",
+  "tooltip.brobiesmod.speedy_block": "Gotta go fast! (Creative only)",
+
+
+  "itemGroup.brobiesmod.brobie": "Brobie's Mod"
+}

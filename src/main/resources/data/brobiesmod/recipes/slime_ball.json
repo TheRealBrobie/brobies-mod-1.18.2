@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "brobiesmod:liquid_slime"
+  },
+  "result": "minecraft:slime_ball",
+  "experience": 0.2,
+  "cookingtime": 200
+}
