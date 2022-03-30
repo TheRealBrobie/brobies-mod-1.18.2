@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tutorialmod:brobie_block",
-    "tutorialmod:speedy_block"
+    "brobiesmod:brobie_block",
+    "brobiesmod:speedy_block"
   ]
 }

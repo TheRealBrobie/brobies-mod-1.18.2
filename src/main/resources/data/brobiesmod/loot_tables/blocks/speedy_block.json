@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "brobiesmod:brobie_block"
+          "name": "brobiesmod:speedy_block"
         }
       ],
       "conditions": [
