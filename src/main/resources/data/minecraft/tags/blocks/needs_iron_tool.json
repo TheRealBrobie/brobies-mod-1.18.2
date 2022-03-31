@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-
+    "brobiesmod:steel_block",
+    "brobiesmod:blue_steel_block"
   ]
 }

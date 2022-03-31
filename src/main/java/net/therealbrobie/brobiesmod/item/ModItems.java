@@ -11,6 +11,12 @@ public class ModItems {
     public static final Item LIQUID_SLIME = registerItem("liquid_slime",
             new Item(new FabricItemSettings().group(ModItemGroup.BROBIE)));
 
+    public static final Item STEEL_INGOT = registerItem("steel_ingot",
+            new Item(new FabricItemSettings().group(ModItemGroup.BROBIE)));
+
+    public static final Item BLUE_STEEL_INGOT = registerItem("blue_steel_ingot",
+            new Item(new FabricItemSettings().group(ModItemGroup.BROBIE)));
+
     private static Item registerItem(String name, Item item){
         return Registry.register(Registry.ITEM, new Identifier(BrobiesMod.MOD_ID, name), item);
     }

@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "brobiesmod:brobie_block",
-    "brobiesmod:speedy_block"
+    "brobiesmod:speedy_block",
+    "brobiesmod:steel_block",
+    "brobiesmod:blue_steel_block"
   ]
 }

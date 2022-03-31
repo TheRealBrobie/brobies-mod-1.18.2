@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "blue_steel_ingot",
+  "ingredient": {
+    "item": "brobiesmod:steel_ingot"
+  },
+  "result": "brobiesmod:blue_steel_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

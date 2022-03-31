@@ -27,6 +27,12 @@ public class ModBlocks {
     public static final Block BROBIE_BLOCK = registerBlock("brobie_block",
             new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.BROBIE, "tooltip.brobiesmod.brobie_block");
 
+    public static final Block STEEL_BLOCK = registerBlock("steel_block",
+            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.BROBIE);
+
+    public static final Block BLUE_STEEL_BLOCK = registerBlock("blue_steel_block",
+            new Block(FabricBlockSettings.of(Material.METAL).strength(7f).requiresTool()), ModItemGroup.BROBIE, "tooltip.brobiesmod.blue_steel_block");
+
     public static final Block SPEEDY_BLOCK = registerBlock("speedy_block",
             new SpeedyBlock(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.BROBIE, "tooltip.brobiesmod.speedy_block");
 

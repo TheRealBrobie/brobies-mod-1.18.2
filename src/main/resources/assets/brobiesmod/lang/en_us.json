@@ -1,11 +1,16 @@
 {
   "item.brobiesmod.liquid_slime": "Liquid Slime",
+  "item.brobiesmod.steel_ingot": "Steel Ingot",
+  "item.brobiesmod.blue_steel_ingot": "Blue Steel Ingot",
 
 
   "block.brobiesmod.brobie_block": "Brobie Block",
   "tooltip.brobiesmod.brobie_block": "A decorative block.",
   "block.brobiesmod.speedy_block": "Speedy Block",
   "tooltip.brobiesmod.speedy_block": "Gotta go fast! (Creative only)",
+  "block.brobiesmod.steel_block": "Steel Block",
+  "block.brobiesmod.blue_steel_block": "Blue Steel Block",
+  "tooltip.brobiesmod.blue_steel_block": "One look!? I don't think so!",
 
 
   "itemGroup.brobiesmod.brobie": "Brobie's Mod"
