@@ -33,8 +33,15 @@ public class ModBlocks {
     public static final Block BLUE_STEEL_BLOCK = registerBlock("blue_steel_block",
             new Block(FabricBlockSettings.of(Material.METAL).strength(7f).requiresTool()), ModItemGroup.BROBIE, "tooltip.brobiesmod.blue_steel_block");
 
+    public static final Block BROBIUM_ORE = registerBlock("brobium_ore",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(5f).requiresTool()), ModItemGroup.BROBIE);
+
+    public static final Block DEEPSLATE_BROBIUM_ORE = registerBlock("deepslate_brobium_ore",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(5.5f).requiresTool()), ModItemGroup.BROBIE);
+
     public static final Block SPEEDY_BLOCK = registerBlock("speedy_block",
             new SpeedyBlock(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.BROBIE, "tooltip.brobiesmod.speedy_block");
+
 
     private static Block registerBlock(String name, Block block, ItemGroup group, String tooltipKey){
         registerBlockItem(name, block, group, tooltipKey);

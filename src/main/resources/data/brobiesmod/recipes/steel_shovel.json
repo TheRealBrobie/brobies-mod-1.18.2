@@ -1,16 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "###",
-    "###",
-    "###"
+    " # ",
+    " X ",
+    " X "
   ],
   "key": {
     "#": {
       "tag": "c:steel_ingots"
+    },
+    "X": {
+      "item": "minecraft:stick"
     }
   },
   "result": {
-    "item": "brobiesmod:steel_block"
+    "item": "brobiesmod:steel_shovel"
   }
 }

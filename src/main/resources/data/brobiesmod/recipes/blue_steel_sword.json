@@ -1,16 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "###",
-    "###",
-    "###"
+    " # ",
+    " # ",
+    " X "
   ],
   "key": {
     "#": {
       "tag": "c:blue_steel_ingots"
+    },
+    "X": {
+      "item": "minecraft:stick"
     }
   },
   "result": {
-    "item": "brobiesmod:blue_steel_block"
+    "item": "brobiesmod:blue_steel_sword"
   }
 }

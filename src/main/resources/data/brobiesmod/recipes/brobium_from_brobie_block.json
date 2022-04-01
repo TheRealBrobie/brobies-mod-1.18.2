@@ -2,11 +2,11 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients":[
     {
-      "tag": "minecraft:wool"
+      "item": "brobiesmod:brobie_block"
     }
     ],
   "result": {
-    "item": "minecraft:string",
-    "count": 4
+    "item": "brobiesmod:brobium",
+    "count": 9
   }
 }

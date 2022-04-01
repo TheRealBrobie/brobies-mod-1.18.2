@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "brobiesmod:steel_block",
-    "brobiesmod:blue_steel_block"
+    "brobiesmod:blue_steel_block",
+    "brobiesmod:brobium_ore",
+    "brobiesmod:deepslate_brobium_ore"
   ]
 }

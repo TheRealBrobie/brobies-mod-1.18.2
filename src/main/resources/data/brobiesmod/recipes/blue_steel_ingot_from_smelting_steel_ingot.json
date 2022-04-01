@@ -2,7 +2,7 @@
   "type": "minecraft:smelting",
   "group": "blue_steel_ingot",
   "ingredient": {
-    "item": "brobiesmod:steel_ingot"
+    "tag": "c:steel_ingots"
   },
   "result": "brobiesmod:blue_steel_ingot",
   "experience": 0.7,
