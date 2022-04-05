@@ -22,10 +22,16 @@ public class ModItems {
     public static final Item BROBIUM = registerItem("brobium",
             new Item(new FabricItemSettings().group(ModItemGroup.BROBIE)));
 
+    public static final Item STEEL_DUST = registerItem("steel_dust",
+            new Item(new FabricItemSettings().group(ModItemGroup.BROBIE)));
+
     public static final Item STEEL_INGOT = registerItem("steel_ingot",
             new Item(new FabricItemSettings().group(ModItemGroup.BROBIE)));
 
     public static final Item BLUE_STEEL_INGOT = registerItem("blue_steel_ingot",
+            new Item(new FabricItemSettings().group(ModItemGroup.BROBIE)));
+
+    public static final Item NETHER_SEEDS = registerItem("nether_seeds",
             new Item(new FabricItemSettings().group(ModItemGroup.BROBIE)));
 
 

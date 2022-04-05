@@ -8,11 +8,11 @@
       "item": "minecraft:gunpowder"
     },
     {
-      "item": "minecraft:coal"
+      "item": "brobiesmod:brobium"
     }
   ],
   "result": {
     "item": "minecraft:blaze_powder",
-    "count": 1
+    "count": 2
   }
 }

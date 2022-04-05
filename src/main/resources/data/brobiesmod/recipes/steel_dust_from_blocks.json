@@ -6,12 +6,10 @@
     },
     {
       "item": "minecraft:coal_block"
-    },
-    {
-      "item": "minecraft:lava_bucket"
     }
   ],
   "result": {
-    "item": "brobiesmod:steel_block"
+    "item": "brobiesmod:steel_dust",
+    "count": 9
   }
 }

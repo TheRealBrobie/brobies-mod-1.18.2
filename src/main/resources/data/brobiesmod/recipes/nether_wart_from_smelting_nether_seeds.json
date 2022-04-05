@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "nether_wart",
+  "ingredient": {
+    "item": "brobiesmod:nether_seeds"
+  },
+  "result": "minecraft:nether_wart",
+  "experience": 0.5,
+  "cookingtime": 200
+}

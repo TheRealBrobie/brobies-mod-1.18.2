@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "brobium",
+  "ingredient": {
+    "item": "brobiesmod:brobium_ore"
+  },
+  "result": "brobiesmod:brobium",
+  "experience": 0.5,
+  "cookingtime": 100
+}

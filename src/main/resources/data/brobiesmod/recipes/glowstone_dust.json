@@ -8,11 +8,11 @@
       "item": "minecraft:gold_nugget"
     },
     {
-      "item": "minecraft:nether_brick"
+      "item": "brobiesmod:brobium"
     }
   ],
   "result": {
     "item": "minecraft:glowstone_dust",
-    "count": 1
+    "count": 2
   }
 }

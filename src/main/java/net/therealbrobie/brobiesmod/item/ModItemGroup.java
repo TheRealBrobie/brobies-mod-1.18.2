@@ -8,5 +8,5 @@ import net.therealbrobie.brobiesmod.BrobiesMod;
 
 public class ModItemGroup {
     public static final ItemGroup BROBIE = FabricItemGroupBuilder.build(new Identifier(BrobiesMod.MOD_ID, "brobie"),
-            () ->new ItemStack(ModItems.LIQUID_SLIME));
+            () -> new ItemStack(ModItems.BROBIUM));
 }
